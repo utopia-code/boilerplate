@@ -1,1 +1,0 @@
-{"mappings":"AAAA,MAAMA,KAAO,QAEbC,QAAQC,IAAI","sources":["src/js/app.js"],"sourcesContent":["const name = 'world';\n\nconsole.log(`Hello ${name}`); "],"names":["name","console","log"],"version":3,"file":"index.5d9a4947.js.map"}

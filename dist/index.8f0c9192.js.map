@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,IAAI,GAAG,OAAO,AAAC;AAErB,OAAO,CAAC,GAAG,CAAC,CAAC,MAAM,EAAE,IAAI,CAAC,CAAC,CAAC,CAAC","sources":["src/js/app.js"],"sourcesContent":["const name = 'world';\n\nconsole.log(`Hello ${name}`); "],"names":[],"version":3,"file":"index.8f0c9192.js.map","sourceRoot":"/__parcel_source_root/"}
